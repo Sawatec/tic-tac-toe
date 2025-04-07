@@ -55,5 +55,5 @@ A simple and interactive Tic-Tac-Toe game built with React. This project demonst
 ### Technologies Used
 
 **`React`**: For building the user interface.
-**Vite`**: For fast development and build tooling.
-**CSS`**: For styling the application.
+**`Vite`**: For fast development and build tooling.
+**`CSS`**: For styling the application.
