@@ -32,3 +32,28 @@ A simple and interactive Tic-Tac-Toe game built with React. This project demonst
    ```bash
    git clone https://github.com/your-username/react-tic-tac-toe.git
    cd react-tic-tac-toe
+   
+2. Install dependencies:
+   ```bash
+   npm install
+   
+3. Start the development server:
+   ```bash
+   npm run dev
+
+4. Open the app in your browser at http://localhost:5173.
+
+
+### How to Play
+
+1. Enter player names by clicking the "Edit" button next to each player.
+2. Players take turns selecting squares on the grid.
+3. The game ends when one player wins or all squares are filled (draw).
+4. Click "Play Again" to restart the game.
+
+   
+### Technologies Used
+
+**`React`**: For building the user interface.
+**Vite`**: For fast development and build tooling.
+**CSS`**: For styling the application.
