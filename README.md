@@ -2,6 +2,9 @@
 
 A simple and interactive Tic-Tac-Toe game built with React. This project demonstrates the use of React components, state management, and event handling to create a fully functional game.
 
+![grafik](https://github.com/user-attachments/assets/cc75c1ff-f502-4271-acf9-8137f8989f6c)
+
+
 ## Features
 
 - **Two-player gameplay**: Players take turns marking squares on a 3x3 grid.
